@@ -34,7 +34,7 @@ $$$$$$$$$$$$$BJmkkkkkbbkkkO0bkkkkkqmkbmZQk@$$$$$$$$$$$$$$$$$
 $$$$$$$$$$@@bpkbZOwwwwqmQbkpOkkkkkbZpbQZmmmh@$$$$$$$$$$$$$$$
 $$$$$$$$$$@*pkkkkkkkbkkkkkkkUbkkkkkbQ0ZmmmmZo$$$$$$$$$$$$$$$
 $$$$$$$$$$@Jbkkkkkkkkkkkkkkkk0kkkkkkkLmmmmmmwB$$$$$$$$$$$$$$
-""")
+""") # u can delete this if youd like
     print()
 
 def main():
